@@ -1,0 +1,408 @@
+{
+  "elements":[
+    {
+      "name": "Lausanne+Bern",
+      "type": {
+        "id": "1",
+        "display": "Small"
+      },
+      "building": {
+        "id": "2",
+        "display": "Friesenberg 75"
+      },
+      "floor": {
+        "id": "2",
+        "display": "1. OG"
+      },
+      "active": true,
+      "setupTime": 0,
+      "teardownTime": 0,
+      "groups": [
+        {
+          "id": "1",
+          "display": "Mobimo"
+        }
+      ],
+      "setups": [
+        {
+          "id": "7",
+          "display": "Konferenz B+L",
+          "capacity": 0
+        },
+        {
+          "id": "8",
+          "display": "Tische B+L",
+          "capacity": 0
+        },
+        {
+          "id": "5",
+          "display": "Konzert B+L",
+          "capacity": 0
+        },
+        {
+          "id": "6",
+          "display": "Schulung B+L",
+          "capacity": 0
+        }
+      ],
+      "defaultCapacity": 20,
+      "properties": {},
+      "id": "16"
+    },
+    {
+      "name": "Luzern",
+      "type": {
+        "id": "1",
+        "display": "Small"
+      },
+      "building": {
+        "id": "2",
+        "display": "Friesenberg 75"
+      },
+      "floor": {
+        "id": "2",
+        "display": "1. OG"
+      },
+      "active": true,
+      "setupTime": 0,
+      "teardownTime": 0,
+      "groups": [
+        {
+          "id": "1",
+          "display": "Mobimo"
+        }
+      ],
+      "setups": [
+        {
+          "id": "15",
+          "display": "Konferenz Luzern",
+          "capacity": 0
+        },
+        {
+          "id": "13",
+          "display": "Arena Luzern",
+          "capacity": 0
+        },
+        {
+          "id": "14",
+          "display": "Standard Luzern",
+          "capacity": 0
+        }
+      ],
+      "defaultCapacity": 8,
+      "properties": {},
+      "id": "1"
+    },
+    {
+      "name": "Town Hall",
+      "type": {
+        "id": "1",
+        "display": "Small"
+      },
+      "building": {
+        "id": "2",
+        "display": "Friesenberg 75"
+      },
+      "floor": {
+        "id": "2",
+        "display": "1. OG"
+      },
+      "active": true,
+      "setupTime": 0,
+      "teardownTime": 0,
+      "groups": [
+        {
+          "id": "1",
+          "display": "Mobimo"
+        }
+      ],
+      "setups": [
+        {
+          "id": "19",
+          "display": "Konzert Townhall",
+          "capacity": 0
+        }
+      ],
+      "defaultCapacity": 100,
+      "properties": {},
+      "id": "17"
+    },
+    {
+      "name": "Zürich",
+      "type": {
+        "id": "2",
+        "display": "Large"
+      },
+      "building": {
+        "id": "2",
+        "display": "Friesenberg 75"
+      },
+      "floor": {
+        "id": "2",
+        "display": "1. OG"
+      },
+      "active": true,
+      "setupTime": 0,
+      "teardownTime": 0,
+      "groups": [
+        {
+          "id": "1",
+          "display": "Mobimo"
+        }
+      ],
+      "setups": [
+        {
+          "id": "16",
+          "display": "Arena Zürich",
+          "capacity": 0
+        },
+        {
+          "id": "17",
+          "display": "Standard Zürich",
+          "capacity": 0
+        },
+        {
+          "id": "18",
+          "display": "Konferenz Zürich",
+          "capacity": 0
+        }
+      ],
+      "defaultCapacity": 18,
+      "properties": {},
+      "id": "2"
+    },
+    {
+      "name": "Place to be",
+      "type": {
+        "id": "1",
+        "display": "Small"
+      },
+      "building": {
+        "id": "2",
+        "display": "Friesenberg 75"
+      },
+      "floor": {
+        "id": "2",
+        "display": "1. OG"
+      },
+      "active": true,
+      "setupTime": 0,
+      "teardownTime": 0,
+      "groups": [
+        {
+          "id": "1",
+          "display": "Mobimo"
+        }
+      ],
+      "setups": [],
+      "defaultCapacity": 50,
+      "properties": {},
+      "id": "18"
+    },
+    {
+      "name": "Sitzungzimmer 522",
+      "type": {
+        "id": "2",
+        "display": "Large"
+      },
+      "building": {
+        "id": "3",
+        "display": "relais 102"
+      },
+      "floor": {
+        "id": "3",
+        "display": "5.OG"
+      },
+      "active": true,
+      "setupTime": 0,
+      "teardownTime": 0,
+      "groups": [
+        {
+          "id": "1",
+          "display": "Mobimo"
+        }
+      ],
+      "setups": [
+        {
+          "id": "1",
+          "display": "Arena Bern",
+          "capacity": 0
+        },
+        {
+          "id": "2",
+          "display": "Standard Bern",
+          "capacity": 0
+        }
+      ],
+      "minOccupancy": 1,
+      "defaultCapacity": 12,
+      "properties": {},
+      "id": "3"
+    },
+    {
+      "name": "Sitzungzimmer 520",
+      "type": {
+        "id": "1",
+        "display": "Small"
+      },
+      "building": {
+        "id": "3",
+        "display": "relais 102"
+      },
+      "floor": {
+        "id": "3",
+        "display": "5.OG"
+      },
+      "active": true,
+      "setupTime": 0,
+      "teardownTime": 0,
+      "groups": [
+        {
+          "id": "1",
+          "display": "Mobimo"
+        }
+      ],
+      "setups": [
+        {
+          "id": "3",
+          "display": "Tische Bern",
+          "capacity": 0
+        }
+      ],
+      "minOccupancy": 1,
+      "defaultCapacity": 12,
+      "properties": {},
+      "id": "4"
+    },
+    {
+      "name": "Great Hall",
+      "type": {
+        "id": "21",
+        "display": "My Item"
+      },
+      "building": {
+        "id": "9",
+        "display": "My Item"
+      },
+      "floor": {
+        "id": "9",
+        "display": "My Item"
+      },
+      "active": true,
+      "setupTime": 10,
+      "teardownTime": 10,
+      "groups": [
+        {
+          "id": "7",
+          "display": "My Item"
+        }
+      ],
+      "setups": [
+        {
+          "id": "9",
+          "display": "My Item",
+          "capacity": 9
+        }
+      ],
+      "minOccupancy": 4,
+      "defaultCapacity": 10,
+      "properties": {},
+      "id": "75"
+    },
+    {
+      "name": "Lausanne",
+      "type": {
+        "id": "1",
+        "display": "Small"
+      },
+      "building": {
+        "id": "2",
+        "display": "Friesenberg 75"
+      },
+      "floor": {
+        "id": "2",
+        "display": "1. OG"
+      },
+      "active": true,
+      "setupTime": 0,
+      "teardownTime": 0,
+      "groups": [
+        {
+          "id": "1",
+          "display": "Mobimo"
+        }
+      ],
+      "setups": [
+        {
+          "id": "13",
+          "display": "Arena Luzern",
+          "capacity": 0
+        },
+        {
+          "id": "15",
+          "display": "Konferenz Luzern",
+          "capacity": 0
+        },
+        {
+          "id": "14",
+          "display": "Standard Luzern",
+          "capacity": 0
+        }
+      ],
+      "minOccupancy": 1,
+      "defaultCapacity": 20,
+      "properties": {},
+      "id": "14"
+    },
+    {
+      "name": "Bern",
+      "type": {
+        "id": "1",
+        "display": "Small"
+      },
+      "building": {
+        "id": "2",
+        "display": "Friesenberg 75"
+      },
+      "floor": {
+        "id": "2",
+        "display": "1. OG"
+      },
+      "active": true,
+      "setupTime": 0,
+      "teardownTime": 0,
+      "groups": [
+        {
+          "id": "1",
+          "display": "Mobimo"
+        }
+      ],
+      "setups": [
+        {
+          "id": "4",
+          "display": "Konferenz Bern",
+          "capacity": 0
+        },
+        {
+          "id": "1",
+          "display": "Arena Bern",
+          "capacity": 0
+        },
+        {
+          "id": "2",
+          "display": "Standard Bern",
+          "capacity": 0
+        },
+        {
+          "id": "3",
+          "display": "Tische Bern",
+          "capacity": 0
+        }
+      ],
+      "defaultCapacity": 20,
+      "properties": {},
+      "id": "15"
+    }
+  ]
+}
+
